@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: "pages" # an empty string here means all files in the project
     values:
-      layout: "default"
-      theme: jekyll-theme-minimal
+      layout: "jekyll-theme-minimal"
