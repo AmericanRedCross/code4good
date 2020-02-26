@@ -1,7 +1,1 @@
 theme: jekyll-theme-minimal
-defaults:
-  -
-    scope:
-      path: "pages" # an empty string here means all files in the project
-    values:
-      layout: "jekyll-theme-minimal"
